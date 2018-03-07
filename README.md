@@ -1,7 +1,8 @@
-# test-global-site
-Test repository
-
 # Quick Start
+
+```
+$ echo hogehoge
+```
 
 # References
 
